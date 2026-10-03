@@ -9,7 +9,7 @@ Beyond engineering scalable systems, I am dedicated to technical enablement, tra
 I also like to travel, try new opportunities beyond my comfort zone, meet new people and play football like a professional. 
 
 ### 🛠️ Core Technology Stack & Expertise
-CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, Lambda, VPC, API Gateway, IAM, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53
+CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, Lambda, VPC, API Gateway, IAM, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis
 
 INFRASTRUCTURE AS CODE (IaC): Terraform, CloudFormation, AWS CDK (Python), AWS SAM 
 
