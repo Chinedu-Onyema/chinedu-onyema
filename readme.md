@@ -1,8 +1,8 @@
 # Hello, I am Chinedu Onyema Oremus 👋
 ## Cloud, DevOps & SRE Engineer | Cloud Solutions Architect | Technical Trainer & Mentor
 
-I am a results-driven Cloud Solutions Architect, DevOps, and Site Reliability (SRE) Engineer with a proven track record of designing, securing, and scaling distributed cloud infrastructure. 
-I am deeply passionate about bridging the gap between infrastructure automation, engineering efficiency, and business value through rigorous modern practices, Infrastructure as Code, and resilient system architecture.
+I am a results-driven Cloud Solutions Architect, DevOps, and Site Reliability (SRE) Engineer with a proven track record of designing, securing, optimizing cloud cost and scaling distributed cloud infrastructure. 
+I am deeply passionate about bridging the gap between infrastructure automation, engineering efficiency, and business value through rigorous modern practices, Infrastructure as Code, financial operations (finOps) and resilient system architecture.
 
 Beyond engineering scalable systems, I am dedicated to technical enablement, training the next generation of cloud professionals and mentoring engineers to master cloud-native ecosystems.
 
