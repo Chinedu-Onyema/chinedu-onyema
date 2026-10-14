@@ -1,18 +1,21 @@
 # Hello, I am Chinedu Onyema Oremus 👋
-## Cloud, DevOps & SRE Engineer | Cloud Solutions Architect | Technical Trainer & Mentor
+## Cloud, DevOps & SRE Engineer | AWS Certified Cloud Solutions Architect | Technical Trainer & Mentor
 
-I am a results-driven Cloud Solutions Architect, DevOps, and Site Reliability (SRE) Engineer with a proven track record of designing, securing, optimizing cloud cost and scaling distributed cloud infrastructure. 
+I am a results-driven certified Cloud Solutions Architect, DevOps, and Site Reliability (SRE) Engineer with a proven track record of designing, securing, optimizing cloud cost and scaling distributed cloud infrastructure. 
 
 I am deeply passionate about bridging the gap between infrastructure automation, engineering efficiency, and business value through rigorous modern practices, Infrastructure as Code, financial operations (finOps) and resilient system architecture.
 
 Beyond engineering scalable systems, I am dedicated to technical enablement, training the next generation of cloud professionals and mentoring engineers to master cloud-native ecosystems.
 
-I also like to travel, try new opportunities beyond my comfort zone, meet new people and play football like a professional. 
+I also like to travel, try new opportunities beyond my comfort zone, meet new people and play football like a professional.
+
+You can check out the Repositories tab to see my projects.
+
 
 ### 🛠️ Core Technology Stack & Expertise
 CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, Lambda, VPC, API Gateway, IAM, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis
 
-INFRASTRUCTURE AS CODE (IaC): Terraform, CloudFormation, AWS CDK (Python), AWS SAM 
+INFRASTRUCTURE AS CODE (IaC): Terraform, CloudFormation, AWS CLoud Development Kits (CDK Python), AWS Serverless Application Model (SAM) 
 
 SECURITY: Secrets Manager, Parameter store, HashiCorp Vault
 
@@ -24,7 +27,7 @@ OBSERVABILITY: Prometheus, Grafana, Alert Manager, EFK Stack (Elasticsearch, Flu
 
 PROGRAMMING & SCRIPTING: Python, Bash/Shell Scripting
 
-METHOLOGIES & FINANCIAL MANAGEMENT: SRE Principles, Site Reliability, FinOps, Error Budgeting.
+METHOLOGIES & FINANCIAL MANAGEMENT: SRE Principles, Site Reliability Engineering, FinOps, Error Budgeting.
 
 ### 🌐 Professional Philosophy & Focus
 RESILENT & RELIABILITY: I architect self-healing, highly available systems that minimize downtime and optimize Mean Time to Recovery (MTTR).
