@@ -30,15 +30,15 @@ You can check out the Repositories tab to see my projects.
 ##### METHOLOGIES & FINANCIAL MANAGEMENT: SRE Principles, Site Reliability Engineering, FinOps, Error Budgeting.
 
 ### 🌐 Professional Philosophy & Focus
-RESILENT & RELIABILITY: I architect self-healing, highly available systems that minimize downtime and optimize Mean Time to Recovery (MTTR).
+##### RESILENT & RELIABILITY: I architect self-healing, highly available systems that minimize downtime and optimize Mean Time to Recovery (MTTR).
 
-AUTOMATION-FIRST: Eliminating manual operational toil through robust CI/CD pipelines, GitOps continuous delivery, and repeatable Infrastructure as Code.
+##### AUTOMATION-FIRST: Eliminating manual operational toil through robust CI/CD pipelines, GitOps continuous delivery, and repeatable Infrastructure as Code.
 
-SECURITY & COMPLIANCE: Embedding security best practices (DevSecOps) into every layer of the software development lifecycle, utilizing robust secrets management and least-privilege IAM policies.
+##### SECURITY & COMPLIANCE: Embedding security best practices (DevSecOps) into every layer of the software development lifecycle, utilizing robust secrets management and least-privilege IAM policies.
 
-COST OPTIMIZATION (FinOps): Balancing cloud performance with fiscal responsibility to ensure cloud infrastructure scales efficiently without runaway expenditures.
+##### COST OPTIMIZATION (FinOps): Balancing cloud performance with fiscal responsibility to ensure cloud infrastructure scales efficiently without runaway expenditures.
 
 ### 📬 Connect With Me
-EMAIL ME: onyemachinedu45@gmail.com
+##### EMAIL ME: onyemachinedu45@gmail.com
 
-PROFESSIONAL ENGAGEMENT: Open to consulting, architectural design, cloud, DevOps, SRE engineering roles, and technical training opportunities.
+##### PROFESSIONAL ENGAGEMENT: Open to consulting, architectural design, cloud, DevOps, SRE engineering roles, and technical training opportunities.
