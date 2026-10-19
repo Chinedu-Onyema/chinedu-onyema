@@ -37,7 +37,7 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ##### COST OPTIMIZATION (FinOps): Balancing cloud performance with fiscal responsibility to ensure cloud infrastructure scales efficiently without runaway expenditures.
 
-### 📬 Connect With Me
+### 📬 CONNECT WITH ME
 ##### EMAIL ME: onyemachinedu45@gmail.com
 
 ##### PROFESSIONAL ENGAGEMENT: Open to consulting, architectural design, cloud, DevOps, SRE engineering roles, and Cloud, SRE and DevOps training opportunities.
