@@ -12,7 +12,7 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ### 🛠️ CORE TECHNOLOGY STACK & EXPERTISE
 
-##### CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, Lambda, VPC, API Gateway, IAM, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis.
+##### CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, RDS, Aurora, Lambda, VPC, API Gateway, IAM, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis, Bedrock.
 
 ##### INFRASTRUCTURE AS CODE (IaC): Terraform, CloudFormation, AWS CLoud Development Kits (CDK Python), AWS Serverless Application Model (SAM).
 
