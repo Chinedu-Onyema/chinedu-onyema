@@ -12,7 +12,7 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ### 🛠️ CORE TECHNOLOGY STACK & EXPERTISE
 
-##### CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, RDS, Aurora, Lambda, VPC, API Gateway, IAM, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis, Bedrock.
+##### CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, RDS, Aurora, Lambda, VPC, API Gateway, IAM, IAM IDENTITY CENTER, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis, Bedrock, AWS Organizations
 
 ##### INFRASTRUCTURE AS CODE (IaC): Terraform, CloudFormation, AWS CLoud Development Kits (CDK Python), AWS Serverless Application Model (SAM).
 
@@ -26,7 +26,7 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ##### PROGRAMMING & SCRIPTING: Python, Bash/Shell Scripting.
 
-##### METHOLOGIES & FINANCIAL MANAGEMENT: SRE Principles, Site Reliability Engineering, FinOps, Error Budgeting.
+##### METHOLOGIES & FINANCIAL MANAGEMENT: SRE Principles, Site Reliability Engineering, FinOps, Error Budgeting, Single Sign-on (SSO
 
 ### 🌐 PROFESSIONAL PHILOSOPHY & FOCUS
 ##### RESILENT & RELIABILITY: I architect self-healing, highly available systems that minimize downtime and optimize Mean Time to Recovery (MTTR).
