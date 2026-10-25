@@ -12,7 +12,7 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ### 🛠️ CORE TECHNOLOGY STACK & EXPERTISE
 
-##### CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, RDS, Aurora, Lambda, VPC, API Gateway, IAM, IAM IDENTITY CENTER, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis, Bedrock, AWS Organizations
+##### CLOUD PLATFORMS: Amazon Web Services (AWS), Google Cloud Platform (GCP): EC2, S3, DynamoDB, RDS, Aurora, Lambda, VPC, API Gateway, IAM, IAM IDENTITY CENTER, ECS, EKS, Athena, QuickSight, CodePipeline, Route 53, Kinesis, Bedrock, AWS Organizations, AWS X-Ray
 
 ##### INFRASTRUCTURE AS CODE (IaC): Terraform, CloudFormation, AWS CLoud Development Kits (CDK Python), AWS Serverless Application Model (SAM).
 
@@ -22,7 +22,7 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ##### CI/CD & AUTOMATION: GitHub Actions, GitOps Workflows, AWS Codepipeline (codecommit, Codebuild, codedeploy). 
 
-##### OBSERVABILITY: Prometheus, Grafana, Alert Manager, EFK Stack (Elasticsearch, Fluentbit, Kibana), ELK Stack (Elasticsearch, Logstash, Kibana), Jaeger, OpenTelemetry, OpenSearch 
+##### OBSERVABILITY: Prometheus, Grafana, Alert Manager, EFK Stack (Elasticsearch, Fluentbit, Kibana), ELK Stack (Elasticsearch, Logstash, Kibana), Jaeger, OpenTelemetry, OpenSearch, AWS X-Ray
 
 ##### PROGRAMMING & SCRIPTING: Python, Bash/Shell Scripting.
 
