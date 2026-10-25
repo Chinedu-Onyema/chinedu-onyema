@@ -26,10 +26,10 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ##### PROGRAMMING & SCRIPTING: Python, Bash/Shell Scripting.
 
-##### METHOLOGIES & FINANCIAL MANAGEMENT: SRE Principles, Site Reliability Engineering, FinOps, Error Budgeting, Single Sign-On (SSO)
+##### METHODOLOGIES & FINANCIAL MANAGEMENT: SRE Principles, Site Reliability Engineering, FinOps, Error Budgeting, Single Sign-On (SSO)
 
 ### 🌐 PROFESSIONAL PHILOSOPHY & FOCUS
-##### RESILENT & RELIABILITY: I architect self-healing, highly available systems that minimize downtime and optimize Mean Time to Recovery (MTTR).
+##### RESILIENCE & RELIABILITY: I architect self-healing, highly available systems that minimize downtime and optimize Mean Time to Recovery (MTTR).
 
 ##### AUTOMATION-FIRST: Eliminating manual operational toil through robust CI/CD pipelines, GitOps continuous delivery, and repeatable Infrastructure as Code.
 
