@@ -16,7 +16,7 @@ I also like to travel, try new opportunities beyond my comfort zone, meet new pe
 
 ##### INFRASTRUCTURE AS CODE (IaC): Terraform, CloudFormation, AWS CLoud Development Kits (CDK Python), AWS Serverless Application Model (SAM).
 
-##### SECURITY: Secrets Manager, Parameter store, HashiCorp Vault, IAM Policy Assignment.
+##### SECURITY: Secrets Manager, Parameter store, HashiCorp Vault, IAM Policy Assignment, KMS for encryption
 
 ##### CONTAINERIZATION & ORCHESTRATION: Docker, Docker Compose, Self-managed Kubernetes (KOPS), Red Hat OpenShift, Amazon ECS, Amazon EKS, Argo CD.
 
