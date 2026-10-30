@@ -5,6 +5,8 @@ I am a results-driven certified Cloud Solutions Architect, DevOps, and Site Reli
 
 I am deeply passionate about bridging the gap between infrastructure automation, engineering efficiency, and business value through rigorous modern practices, Infrastructure as Code, financial operations (finOps) and resilient system architecture.
 
+I am also responsible for delivering end-to-end cloud infrastructure and Kubernetes solutions, covering technical pre-sales, solution design, deployment, implementation, troubleshooting, and after-sales technical support.
+
 Beyond engineering scalable systems, I am passionate about technical enablement, training aspiring cloud professionals, and mentoring engineers to excel in cloud-native technologies. I share practical knowledge through YouTube tutorials, comprehensive PDF guides, and online training programs designed to build real-world skills and empower the next generation of cloud, SRE and DevOps professionals. You can check out the Repositories tab to see my projects.
 
 I also like to travel, try new opportunities beyond my comfort zone, meet new people and play football like a professional.
