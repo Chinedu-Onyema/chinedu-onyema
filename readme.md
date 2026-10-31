@@ -1,5 +1,5 @@
 # Hello, I am Chinedu Onyema Oremus 👋
-## Cloud, DevOps & SRE Engineer | AWS Certified Cloud Solutions Architect | Technical Trainer & Mentor
+## Cloud, DevOps & SRE Engineer | AWS Certified Cloud Solutions Architect | Cloud, DevOps & SRE Trainer & Mentor
 
 I am a results-driven certified Cloud Solutions Architect, DevOps, and Site Reliability (SRE) Engineer with a proven track record of designing, securing, optimizing cloud cost and scaling distributed cloud infrastructure. 
 
